@@ -1,0 +1,15 @@
+.hide {
+    visibility: hidden;
+}
+
+body {
+    text-align: center;
+}
+
+main {
+    border: 10px solid #000000;
+    height: 80%;
+    width: 50%;
+
+    margin: auto;
+}
